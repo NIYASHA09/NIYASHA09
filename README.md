@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [http://tinyurl.com/niyasha](http://tinyurl.com/niyasha)
 
-  <h3 align="left">Check out my website:</h3>
+  <h3>👾Check out my website:</h3>
 <p align="left">
   <a href="https://ig-front-end.vercel.app/">https://ig-front-end.vercel.app/</a>
 </p>
