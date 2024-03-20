@@ -16,7 +16,10 @@
 
 - 📄 Know about my experiences [http://tinyurl.com/niyasha](http://tinyurl.com/niyasha)
 
-- Check out my website  [https://ig-front-end.vercel.app/](Socialz)
+  <h3 align="left">Check out my website:</h3>
+<p align="left">
+  <a href="https://ig-front-end.vercel.app/">https://ig-front-end.vercel.app/</a>
+</p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
