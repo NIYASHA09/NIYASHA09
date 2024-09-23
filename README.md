@@ -18,7 +18,7 @@
 
 <h3 align="left"> 👾Check out my website:</h3>
 <p align="left">
-  <a href="https://ig-front-end.vercel.app/">https://ig-front-end.vercel.app/</a>
+  <a href="https://portfolio-niyasha.vercel.app/">"Check Out My Work"</a>
 </p>
   
 <h3 align="left">Connect with me:</h3>
