@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **niyashaj09@gmail.com**
 
-- 📄 Know about my experiences [http://tinyurl.com/niyasha](https://tinyurl.com/Niyasha09)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n1wLc6dlN8pwY-1p4kIhAnSYW5Rtw7_C/view?usp=sharing)
 
 <h3 align="left"> 👾Check out my website:</h3>
 <p align="left">
